@@ -1,0 +1,20 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.wrapper button{
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+}
+.counter{
+  font-size: 16px;
+}
+button.plus{
+  background-color: blue;
+}
